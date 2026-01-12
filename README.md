@@ -50,5 +50,18 @@ Total Employee= COUNTROWS('GlobalCorp Nigeria')
 ```
 Creating new calculated/conditional columns e,g Attrition Count
 
+### Findings
+
+1. Question : What is the overall employee attrition rate across the organization?
+
+   Ans : Using the dataset (GlobalCorp Nigeria):
+   Total employees: 1,470
+    Employees who left (Attrition = Yes): 237
+    Overall Employee Attrition Rate
+    Attrition Rate = 237 / 1470 × 100 = 16.12%
+
+An attrition rate of 16.1% means that about 1 out of every 6 employees in the organization left.
+    So this organization is experiencing moderately high attrition
+
 
 
