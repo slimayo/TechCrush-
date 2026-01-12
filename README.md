@@ -65,5 +65,10 @@ An attrition rate of 16.1% means that about 1 out of every 6 employees in the or
 
 <img src="Screenshot 2026-01-12 221411.png" width="200">
 
+2. Question : Which department have highest and lowest turnover rates?
+
+   Ans : Highest turnover → Sales (20.6%). More than 1 in 5 Sales employees leave
+         Lowest turnover → Research & Development (13.8%)
+
 
 
