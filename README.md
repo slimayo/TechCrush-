@@ -63,5 +63,6 @@ Creating new calculated/conditional columns e,g Attrition Count
 An attrition rate of 16.1% means that about 1 out of every 6 employees in the organization left.
     So this organization is experiencing moderately high attrition
 
- ![Alt text](https://github.com/slimayo/TechCrush-/blob/2d2489e2aa93fe55e31dca65823fac2dcb3d151c/Screenshot%202026-01-12%20221411.png)
-  
+<img src="Screenshot 2026-01-12 221411.png" width="400">
+
+
