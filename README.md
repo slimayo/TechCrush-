@@ -65,4 +65,6 @@ An attrition rate of 16.1% means that about 1 out of every 6 employees in the or
 
     <img src="Screenshot 2026-01-12 221411.png" width="300">
 
+![Same Directory Image](Screenshot 2026-01-12 221411.png)
 
+<img src="Screenshot 2026-01-12 221411.png" width="200">
