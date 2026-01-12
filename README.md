@@ -48,7 +48,7 @@ Include some interesting DAX (Data Analysis Expression) functions e.g
 ```DAX
 Total Employee= COUNTROWS('GlobalCorp Nigeria')
 ```
-
+Creating new calculated/conditional columns e,g Attrition Count
 
 
 
