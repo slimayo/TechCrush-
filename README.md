@@ -179,6 +179,27 @@ Long-tenured employees (6+ years) are very unlikely to leave.
   | Excellent                        | High (17.6%) |
   |Fair                              | High (18.9%)   |
   |Good                              | Moderate (14.2%)   |
+
+  Employees who rated their work–life balance as “Bad” are several times more likely to quit.
+
+   <img src="Screenshot 2026-01-13 205054.png" width="300">
+
+   9. Question : What percentage of high performers leave the organization?
+
+       Ans : The Percentage of High Performers that lesve is 16.4%
+
+      <img src="Screenshot 2026-01-13 205808.png" width="400">
+
+  10. Question : How do promotion rates differ between retained and departed employees?
+
+      Ans :
+
+ |Promotion Rates                 | Attrition Pattern  |
+ |----------------------------------|--------------------|
+ |Promotion rates (Left)            |92.5%  |
+ |Promotion rates (Stay)            |7.5%    |
+
+ Promotion Rate Gap is 85%
       
 
 
