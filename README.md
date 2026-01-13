@@ -200,8 +200,36 @@ Long-tenured employees (6+ years) are very unlikely to leave.
  |Promotion rates (Stay)            |7.5%    |
 
  Promotion Rate Gap is 85%
-      
 
+  <img src="Screenshot 2026-01-13 214531.png" width="400">
+
+
+11. Question : What does business travels has to do with attrition rates?
+
+    Ans :
+
+    |Business Travel Level	          |Attrition Pattern          |
+    |---------------------------------|---------------------------|
+    |Travel frequently               | Highest attrition (24.9%)  |
+    |Travel rarely                   | Moderate (15%)              |
+    |Non travel                      | Low (8%)                    |
+
+    Employee who travels frequently are most like to leave the organization at thrice the rate of those who do not travel.
+
+ <img src="Screenshot 2026-01-13 220246.png" width="400">
+
+    12. Question : How do overtime frequency relate to employee turnover?
+
+        Ans :
+
+  |Overtime              	        |Attrition Pattern            |
+  |---------------------------------|---------------------------|
+  | Yes                             | Extremely High (30.5%)    |
+  | No                              | Low (10.4%)               |
+
+Employees with Yes leave at almost thrice the rate of employees who do not work overtime.
+
+<img src="Screenshot 2026-01-13 222044.png" width="400">
 
 
 
