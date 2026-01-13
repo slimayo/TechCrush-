@@ -141,6 +141,23 @@ Long-tenured employees (6+ years) are very unlikely to leave.
     <img src="Screenshot 2026-01-13 032237.png" width="400">
 
 
+    6. Question : Which job roles experience the most frequent departures?
+       Ans :
+
+       |Job Role                  | Attrition Pattern  |
+       |--------------------------|--------------------|
+       |Sales Reprensative        | Highest turnover (39.8%)  |
+       |Laboratoty Technician     | Very High (23.9%) |
+       |Human Resources           | Very High (23.1%) |
+       |Sales Executive           | High (17.5%) |
+       |Research Scientist        | Moderate (16.1) |
+
+       These 5 Job roles experience the most employee turnover
+
+        <img src="Screenshot 2026-01-13 041018.png" width="400">
+       
+
+
 
 
 
