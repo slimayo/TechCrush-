@@ -84,6 +84,8 @@ An attrition rate of 16.1% means that about 1 out of every 6 employees in the or
 |45 - 55                    | 10.5% Low attrition|
 |Over 55                    | 17% Moderate attrition|
 
+<img src="Screenshot 2026-01-13 023421.png" width="400">
+
 So, this means that employee under 25 are most likely to leave the organization likewise those withing the age band 25 - 34 Years. The 2 age groups has a high attrition rate, the have 59.4% attrition rate combined.
 
     Attrition by Tenure
@@ -95,6 +97,8 @@ So, this means that employee under 25 are most likely to leave the organization 
 |4-5 Years                   | 13.1% Moderate |
 |6-10 Years                  | 12.3% Low |
 |10+ Years                   | 8.1% Lowest |
+
+<img src="Screenshot 2026-01-13 023709.png" width="400">
 
 The first year is the danger zone. Most people who leave do so before completing 12 months.
 Once employees reach 3+ years, they become significantly more stable.
