@@ -127,9 +127,9 @@ Long-tenured employees (6+ years) are very unlikely to leave.
     <img src="Screenshot 2026-01-13 030456.png" width="400">
 
 
-    5. Question : How do job satisfaction rating correlate with employee retention?
+  5. Question : How do job satisfaction rating correlate with employee retention?
   
-       Ans : As Job satisfaction increases, attrition drops sharply.
+      Ans : As Job satisfaction increases, attrition drops sharply.
 
    |Job Satisfaction              | Attrition pattern |
    |------------------------------|-------------------|
@@ -141,8 +141,9 @@ Long-tenured employees (6+ years) are very unlikely to leave.
     <img src="Screenshot 2026-01-13 032237.png" width="400">
 
 
-    6. Question : Which job roles experience the most frequent departures?
-       Ans :
+  6. Question : Which job roles experience the most frequent departures?
+
+     Ans :
 
        |Job Role                  | Attrition Pattern  |
        |--------------------------|--------------------|
@@ -157,9 +158,9 @@ Long-tenured employees (6+ years) are very unlikely to leave.
         <img src="Screenshot 2026-01-13 041018.png" width="400">
 
 
-       7. Question : What is the average tenure of the employees who leave vs those who stay?
+    7. Question : What is the average tenure of the employees who leave vs those who stay?
       
-          Ans : Average tenure of employees who leave is 5.1 Years
+       Ans : Average tenure of employees who leave is 5.1 Years
 
           <img src="Screenshot 2026-01-13 041636.png" width="300">
 
@@ -167,6 +168,15 @@ Long-tenured employees (6+ years) are very unlikely to leave.
 
            <img src="Screenshot 2026-01-13 042017.png" width="300">
 
+
+      8. Question : How does work-life balance rating affect attrition?
+       
+          Ans :           
+         
+          |Work Life Balance            | Attrition pattern    |
+          |-----------------------------|----------------------|
+          |
+          
           
        
 
