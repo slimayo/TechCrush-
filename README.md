@@ -98,12 +98,19 @@ So, this means that employee under 25 are most likely to leave the organization 
 |6-10 Years                  | 12.3% Low |
 |10+ Years                   | 8.1% Lowest |
 
-<img src="Screenshot 2026-01-13 023709.png" width="400">
+<img src="Screenshot 2026-01-13 023709.png" width="600">
 
 The first year is the danger zone. Most people who leave do so before completing 12 months.
 Once employees reach 3+ years, they become significantly more stable.
 Long-tenured employees (6+ years) are very unlikely to leave.
-   
+
+- How Age and Tenure work together
+
+  The highest attrition happens when both are low:
+
+  Young employees (under 25 and 25-34) in their first 1–2 years are the most likely to quit.
+
+  <img src="Screenshot 2026-01-13 024533.png" width="600">
 
 
 
