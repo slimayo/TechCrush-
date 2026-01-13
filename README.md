@@ -155,6 +155,19 @@ Long-tenured employees (6+ years) are very unlikely to leave.
        These 5 Job roles experience the most employee turnover
 
         <img src="Screenshot 2026-01-13 041018.png" width="400">
+
+
+       7. Question : What is the average tenure of the employees who leave vs those who stay?
+      
+          Ans : Average tenure of employees who leave is 5.1 Years
+
+          <img src="Screenshot 2026-01-13 041636.png" width="300">
+
+          Average tenure of employees who stay is 7.4 Years
+
+           <img src="Screenshot 2026-01-13 042017.png" width="300">
+
+          
        
 
 
