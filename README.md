@@ -1,4 +1,4 @@
-# TechCrush-
+# TechCrush-Capstone-Project
 TechCrush project on GlobalCorp Nigeria Human Resource Attrition Analysis
 
 ### Project Overview
@@ -111,6 +111,25 @@ Long-tenured employees (6+ years) are very unlikely to leave.
   Young employees (under 25 and 25-34) in their first 1–2 years are the most likely to quit.
 
   <img src="Screenshot 2026-01-13 024533.png" width="600">
+
+
+4. Question : What is the relationship between salary levels and attrition?
+
+   Ans :
+       The relationship between salary levels and attrition is strong, clear, and negative.
+       As salary increases, attrition decreases.
+
+   |Salary Band                    | Attrition behaviour|
+   |-------------------------------|--------------------|
+   |High                           | Low (5.6%)|
+   |Low                            | Extremely High (28.6%)|
+
+    <img src="Screenshot 2026-01-13 030456.png" width="400">
+
+
+    5. Question : How do job satisfaction rating correlate with employee retention?
+  
+       Ans : 
 
 
 
