@@ -75,9 +75,16 @@ An attrition rate of 16.1% means that about 1 out of every 6 employees in the or
 3. Question : How does attrition vary by employee age group and tenure?
 
    Ans :
-|Age Group| Attrition Pattern|
-|----------|----------|
-|Under 25| 39.2% Highest attrition|
+   
+|Age Group                  | Attrition Pattern|
+|---------------------------|----------|
+|Under 25                   | 39.2% Highest attrition|
+|25 - 34                    | 20.2% High attrition|
+|35 - 44                    | 10.1% Lowest attrition|
+|45 - 55                    | 10.5% Low attrition|
+|Over 55                    | 17% Moderate attrition|
+
+So, this means that employee under 25 are most likely to leave the organization likewise those withing the age band 25 - 34 Years. The 2 age groups has a high attrition rate, the have 59.4% attrition rate combined.
 
 
    
