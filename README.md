@@ -9,7 +9,7 @@ The analysis evaluates how likely employees are to leave during their early, mid
 
 ### Data Source
 
-The data set used for this analysis is 'GlobalCorp Nigeria' HR dataset
+The data set used for this analysis is 'GlobalCorp Nigeria.csv' HR dataset
 
 ### Tools
 
@@ -129,7 +129,14 @@ Long-tenured employees (6+ years) are very unlikely to leave.
 
     5. Question : How do job satisfaction rating correlate with employee retention?
   
-       Ans : 
+       Ans : As satisfaction increases, attrition drops sharply.
+
+   |Job Satisfaction              | Attrition pattern |
+   |------------------------------|-------------------|
+   | Low                          | Very High (22.3%) |
+   |High                          | Moderate (16.5%) |
+   | Medium                       | Moderate (16.4%) |
+   | High                         | Lowest attrition (11.3%) |
 
 
 
