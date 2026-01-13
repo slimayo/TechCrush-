@@ -173,8 +173,8 @@ Long-tenured employees (6+ years) are very unlikely to leave.
        
           Ans :           
          
-          |Work Life Balance            | Attrition pattern    |
-          |-----------------------------|----------------------|
+          | Work Life Balance             | Attrition pattern    |
+          |------------------------------|----------------------|
           |
           
           
