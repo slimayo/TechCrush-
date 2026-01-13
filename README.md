@@ -172,13 +172,14 @@ Long-tenured employees (6+ years) are very unlikely to leave.
       8. Question : How does work-life balance rating affect attrition?
        
           Ans :           
-         
-          | Work Life Balance             | Attrition pattern    |
-          |------------------------------|----------------------|
-          |
-          
-          
-       
+
+  |Work-Life balance                 | Attrition Pattern  |
+  |----------------------------------|--------------------|
+  |Bad                               | Extremele High attrition (31.3%)  |
+  | Excellent                        | High (17.6%) |
+  |Fair                              | High (18.9%)   |
+  |Good                              | Moderate (14.2%)   |
+      
 
 
 
