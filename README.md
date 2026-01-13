@@ -129,7 +129,7 @@ Long-tenured employees (6+ years) are very unlikely to leave.
 
     5. Question : How do job satisfaction rating correlate with employee retention?
   
-       Ans : As satisfaction increases, attrition drops sharply.
+       Ans : As Job satisfaction increases, attrition drops sharply.
 
    |Job Satisfaction              | Attrition pattern |
    |------------------------------|-------------------|
@@ -137,6 +137,8 @@ Long-tenured employees (6+ years) are very unlikely to leave.
    |High                          | Moderate (16.5%) |
    | Medium                       | Moderate (16.4%) |
    | High                         | Lowest attrition (11.3%) |
+
+    <img src="Screenshot 2026-01-13 032237.png" width="400">
 
 
 
