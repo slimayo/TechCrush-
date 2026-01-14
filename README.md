@@ -101,7 +101,7 @@ An attrition rate of 16.1% means that about 1 out of every 6 employees in the or
 
 So, this means that employee under 25 are most likely to leave the organization likewise those withing the age band 25 - 34 Years. The 2 age groups has a high attrition rate, the have 59.4% attrition rate combined.
 
-    Attrition by Tenure
+Attrition by Tenure
 
 |Years at Company            | Attrition Risk |
 |----------------------------|----------------|
