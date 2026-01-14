@@ -261,6 +261,57 @@ Attrition is fairly evenly distributed across gender, attrition in this organiza
     Based on the GlobalCorp Nigeria HR Attrition dataset, there is no calendar year variable, so attrition trends cannot be analyzed by actual years.
 
 
+So the major findings in this datasets are:
+
+1. Overall Attrition Is Moderately High.
+
+2. Attrition Is Concentrated Early in Employee Tenure.
+
+3. Salary Is One of the Strongest Attrition Drivers
+
+4. Promotion Stagnation Predicts Attrition
+
+5. Job Satisfaction & Work Environment Matter More Than Demographics
+
+6. Overtime and Business Travel Increase Exit Risk
+
+7. Sales Roles Drive Most of the Attrition
+
+8. Commute Distance and Work Environment Interact
+
+9. High Performers Are Not Immune
+
+
+### Recomendations
+
+Based on the analysis and considering the regulations adopted by the organization, we recommend the following actions:
+
+1. Strengthen first year retention (highest priority), improve onboarding and role clarity
+
+2. Review compensation for low-income roles. Low salary is one of the strongest predictors of attrition, so introduce salary band corrections for junior roles and add retention bonuses for high-risk positions.
+   It will cause immediate reduction in exits among early-career staff
+
+3. Reduce overtime and travel burden. Overtime and frequent travel double attrition risk, introduce recovery days or flexible schedules. This will definetely reduce burnout-driven attrition
+
+4. Accelerate promotion cycles, attrition spikes after 3+ years without promotion. Set promotion review cycles every 18–24 months, flag employees with 3+ years since last promotion as retention risks. Reward high performers faster, by doing this you will retains mid-tenure and high-potential employees.
+
+5. Improve job and environment satisfaction, address team-level environment issues, train managers on engagement and feedback it will lead to sustained improvement in retention across teams.
+
+6. Focus retention efforts on high-risk roles because attrition is concentrated in a few roles. This will help the organization  to have maximum return on investment on retention spend.
+
+7. Introduce commute-sensitive work policies. Long distance from home increases attrition, especially with poor environment satisfaction so offer hybrid/remote options, provide transport support where feasible.
+   This will help to lower attrition in high-commute teams.
+
+8. Protect high performers explicitly by offering performance linked incentives and creating fast-track career paths as well as conducting quarterly check-ins. This will prevents continuous loss of top talent.
+
+9. Have attrition early warning dashboard, most of the exits are predictable. This will cause proactive retention instead of reactive hiring.
+
+10. Use predictive analytics by prioritizing HR interventions, it will help in cost savings.
+
+
+Attrition in this organization is preventable and predictable. Targeted, data-driven interventions will reduce turnover far more effectively than blanket HR policies.
+
+
 
 
 
