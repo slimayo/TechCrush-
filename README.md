@@ -231,6 +231,29 @@ Employees with Yes leave at almost thrice the rate of employees who do not work 
 
 <img src="Screenshot 2026-01-13 222044.png" width="400">
 
+13. Question : What is the gender distribution in attrition pattern?
+
+    Ans :
+
+     |Gender              	        |Attrition Pattern              |
+     |------------------------------|------------------------|
+     | Male                         | 17% Slightly High      |
+     |Female                        | 14.8% Moderate         |
+
+Attrition is fairly evenly distributed across gender, attrition in this organization is not primarily driven by the difference in gendeer distribution
+
+<img src="Screenshot 2026-01-14 043027.png" width="400">
+
+14. Question : How does distance from home and enviroment satisfaction correlate with team attrition?
+
+    Ans :
+
+    The strongest attrition risk appears when both conditions are unfavorable. People may tolerate a long commute or a bad environment  but rarely both.
+
+    The team that has long distance from home low environment satisfaction are at high risk of attrition.
+
+    <img src="Screenshot 2026-01-14 044412.png" width="400">
+
 
 
 
