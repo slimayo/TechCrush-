@@ -231,9 +231,9 @@ Ans :
 
  <img src="Screenshot 2026-01-13 220246.png" width="400">
 
-    12. Question : How do overtime frequency relate to employee turnover?
+12. Question : How do overtime frequency relate to employee turnover?
 
-        Ans :
+Ans :
 
   |Overtime              	        |Attrition Pattern            |
   |---------------------------------|---------------------------|
@@ -265,7 +265,7 @@ Attrition is fairly evenly distributed across gender, attrition in this organiza
 
     The team that has long distance from home low environment satisfaction are at high risk of attrition.
 
-    <img src="Screenshot 2026-01-14 044412.png" width="400">
+<img src="Screenshot 2026-01-14 044412.png" width="400">
 
 15. Question : What are the trends in attrition over the past 3 years?
 
