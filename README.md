@@ -312,6 +312,22 @@ Based on the analysis and considering the regulations adopted by the organizatio
 Attrition in this organization is preventable and predictable. Targeted, data-driven interventions will reduce turnover far more effectively than blanket HR policies.
 
 
+### Limitations
+
+There are some key limitations noticed while studying and analyzing the data and here are some of  them:
+
+1. No time or date dimension as the dataset does not include hire dates, termination dates, or calendar years so analysis is limited to tenure-based proxies instead of actual timelines.
+
+2. Attrition is recorded only as Yes / No. This doesn't help to distinguish between voluntary exits and involuntary exits, doesn't specify if its resignation, retirement or termination. so rootccause analysis is inferred, not confirmed.
+
+3. Limited compensation detail as salary is provided as "MonthlyIncome" without market benchmarks, cost of living adjustments and bonus breakdowns so for this reasons we cannot determine whether pay is competitive externally.
+
+4. Satisfaction scores are subjective. Job, environment, and relationship satisfaction are self-reported and to be candid responses may be biased or inconsistent and cannot validate against objective measures.
+
+5. Geographic detail Is minimal. "DistanceFromHome" is numeric, but no office location no city, region, or transport context and with this commute stress can only be approximated, not precisely measured.
+
+
+
 
 
 
