@@ -140,9 +140,9 @@ Long-tenured employees (6+ years) are very unlikely to leave.
     <img src="Screenshot 2026-01-13 030456.png" width="400">
 
 
-  5. Question : How do job satisfaction rating correlate with employee retention?
+5. Question : How do job satisfaction rating correlate with employee retention?
   
-      Ans : As Job satisfaction increases, attrition drops sharply.
+   Ans : As Job satisfaction increases, attrition drops sharply.
 
    |Job Satisfaction              | Attrition pattern |
    |------------------------------|-------------------|
@@ -171,20 +171,20 @@ Long-tenured employees (6+ years) are very unlikely to leave.
         <img src="Screenshot 2026-01-13 041018.png" width="400">
 
 
- 7. Question : What is the average tenure of the employees who leave vs those who stay?
+7. Question : What is the average tenure of the employees who leave vs those who stay?
       
-     Ans : Average tenure of employees who leave is 5.1 Years
+Ans : Average tenure of employees who leave is 5.1 Years
 
  <img src="Screenshot 2026-01-13 041636.png" width="300">
 
-          Average tenure of employees who stay is 7.4 Years
+Average tenure of employees who stay is 7.4 Years
 
 <img src="Screenshot 2026-01-13 042017.png" width="300">
 
 
  8. Question : How does work-life balance rating affect attrition?
        
-    Ans :           
+  Ans :           
 
   |Work-Life balance                 | Attrition Pattern  |
   |----------------------------------|--------------------|
@@ -199,13 +199,13 @@ Long-tenured employees (6+ years) are very unlikely to leave.
 
 9. Question : What percentage of high performers leave the organization?
 
-       Ans : The Percentage of High Performers that lesve is 16.4%
+Ans : The Percentage of High Performers that lesve is 16.4%
 
 <img src="Screenshot 2026-01-13 205808.png" width="400">
 
 10. Question : How do promotion rates differ between retained and departed employees?
 
-      Ans :
+Ans :
 
  |Promotion Rates                 | Attrition Pattern  |
  |----------------------------------|--------------------|
