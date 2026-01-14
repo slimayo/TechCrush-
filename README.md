@@ -1,6 +1,19 @@
 # TechCrush-Capstone-Project
 TechCrush project on GlobalCorp Nigeria Human Resource Attrition Analysis
 
+## Table of Content
+
+- [Project Overview](#project-overview)
+- [Data Source](#data-source)
+- [Tools](#tools)
+- [Data Cleaning/Preparation](data-cleaning/preparation)
+- [Exploratory Data Analysis](#exploratory-data-analysis)
+- [Data Analysis](#data-analysis)
+- [Findings](#findings)
+- [Recommendations](#recommendations)
+- [Limitations](#limitations)
+
+
 ### Project Overview
 
 This project focuses on understanding employee attrition patterns using the GlobalCorp HR Analytics dataset. The goal is to identify how employee turnover evolves overtime during employment and to uncover the key workforce dynamics driving retention and exits.
@@ -282,7 +295,7 @@ So the major findings in this datasets are:
 9. High Performers Are Not Immune
 
 
-### Recomendations
+### Recommendations
 
 Based on the analysis and considering the regulations adopted by the organization, we recommend the following actions:
 
