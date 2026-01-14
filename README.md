@@ -151,7 +151,7 @@ Long-tenured employees (6+ years) are very unlikely to leave.
    | Medium                       | Moderate (16.4%) |
    | High                         | Lowest attrition (11.3%) |
 
-    <img src="Screenshot 2026-01-13 032237.png" width="400">
+<img src="Screenshot 2026-01-13 032237.png" width="400">
 
 
   6. Question : Which job roles experience the most frequent departures?
