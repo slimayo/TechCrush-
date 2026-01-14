@@ -254,6 +254,12 @@ Attrition is fairly evenly distributed across gender, attrition in this organiza
 
     <img src="Screenshot 2026-01-14 044412.png" width="400">
 
+15. Question : What are the trends in attrition over the past 3 years?
+
+    Ans :
+
+    Based on the GlobalCorp Nigeria HR Attrition dataset, there is no calendar year variable, so attrition trends cannot be analyzed by actual years.
+
 
 
 
