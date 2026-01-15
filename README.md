@@ -99,7 +99,7 @@ An attrition rate of 16.1% means that about 1 out of every 6 employees in the or
 
 <img src="Screenshot 2026-01-13 023421.png" width="400">
 
-So, this means that employee under 25 are most likely to leave the organization likewise those withing the age band 25 - 34 Years. The 2 age groups has a high attrition rate, the have 59.4% attrition rate combined.
+So, this means that employee under 25 are most likely to leave the organization likewise those within the age band 25 - 34 Years. The 2 age groups has a high attrition rate, they have 59.4% attrition rate combined.
 
 Attrition by Tenure
 
@@ -160,8 +160,8 @@ Long-tenured employees (6+ years) are very unlikely to leave.
 
        |Job Role                  | Attrition Pattern  |
        |--------------------------|--------------------|
-       |Sales Reprensative        | Highest turnover (39.8%)  |
-       |Laboratoty Technician     | Very High (23.9%) |
+       |Sales Representative      | Highest turnover (39.8%)  |
+       |Laboratory Technician     | Very High (23.9%) |
        |Human Resources           | Very High (23.1%) |
        |Sales Executive           | High (17.5%) |
        |Research Scientist        | Moderate (16.1) |
@@ -189,7 +189,7 @@ Average tenure of employees who stay is 7.4 Years
   |Work-Life balance                 | Attrition Pattern  |
   |----------------------------------|--------------------|
   |Bad                               | Extremele High attrition (31.3%)  |
-  | Excellent                        | High (17.6%) |
+  |Excellent                         | High (17.6%) |
   |Fair                              | High (18.9%)   |
   |Good                              | Moderate (14.2%)   |
 
@@ -199,7 +199,7 @@ Average tenure of employees who stay is 7.4 Years
 
 9. Question : What percentage of high performers leave the organization?
 
-Ans : The Percentage of High Performers that lesve is 16.4%
+Ans : The Percentage of High Performers that leave is 16.4%
 
 <img src="Screenshot 2026-01-13 205808.png" width="400">
 
@@ -209,8 +209,8 @@ Ans :
 
  |Promotion Rates                 | Attrition Pattern  |
  |----------------------------------|--------------------|
- |Promotion rates (Left)            |92.5%  |
- |Promotion rates (Stay)            |7.5%    |
+ |Promotion rates (Retained)        |92.5%  |
+ |Promotion rates (Left)            |7.5%    |
 
  Promotion Rate Gap is 85%
 
@@ -253,7 +253,7 @@ Employees with Yes leave at almost thrice the rate of employees who do not work 
      | Male                         | 17% Slightly High      |
      |Female                        | 14.8% Moderate         |
 
-Attrition is fairly evenly distributed across gender, attrition in this organization is not primarily driven by the difference in gendeer distribution
+Attrition is fairly evenly distributed across gender, attrition in this organization is not primarily driven by the difference in gender distribution.
 
 <img src="Screenshot 2026-01-14 043027.png" width="400">
 
@@ -278,21 +278,21 @@ So the major findings in this datasets are:
 
 1. Overall Attrition Is Moderately High.
 
-2. Attrition Is Concentrated Early in Employee Tenure.
+2. Attrition is concentrated early in employee tenure.
 
-3. Salary Is One of the Strongest Attrition Drivers
+3. Salary is one of the strongest attrition drivers
 
-4. Promotion Stagnation Predicts Attrition
+4. Promotion stagnation predicts attrition
 
-5. Job Satisfaction & Work Environment Matter More Than Demographics
+5. Job satisfaction and work environment matter more than demographics
 
-6. Overtime and Business Travel Increase Exit Risk
+6. Overtime and business travel increase exit risk
 
-7. Sales Roles Drive Most of the Attrition
+7. Sales roles drive most of the attrition
 
-8. Commute Distance and Work Environment Interact
+8. Commute distance and work environment interact
 
-9. High Performers Are Not Immune
+9. High performers are not immune
 
 
 ### Recommendations
