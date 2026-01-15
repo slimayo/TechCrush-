@@ -111,7 +111,7 @@ Attrition by Tenure
 |6-10 Years                  | 12.3% Low |
 |10+ Years                   | 8.1% Lowest |
 
-<img src="Screenshot 2026-01-13 023709.png" width="600">
+<img src="Screenshot 2026-01-13 023709.png" width="400">
 
 The first year is the danger zone. Most people who leave do so before completing 12 months.
 Once employees reach 3+ years, they become significantly more stable.
@@ -137,7 +137,7 @@ Long-tenured employees (6+ years) are very unlikely to leave.
    |High                           | Low (5.6%)|
    |Low                            | Extremely High (28.6%)|
 
-    <img src="Screenshot 2026-01-13 030456.png" width="400">
+    <img src="Screenshot 2026-01-13 030456.png" width="300">
 
 
 5. Question : How do job satisfaction rating correlate with employee retention?
@@ -151,7 +151,7 @@ Long-tenured employees (6+ years) are very unlikely to leave.
    | Medium                       | Moderate (16.4%) |
    | High                         | Lowest attrition (11.3%) |
 
-<img src="Screenshot 2026-01-13 032237.png" width="400">
+<img src="Screenshot 2026-01-13 032237.png" width="300">
 
 
   6. Question : Which job roles experience the most frequent departures?
@@ -168,7 +168,7 @@ Long-tenured employees (6+ years) are very unlikely to leave.
 
        These 5 Job roles experience the most employee turnover
 
-        <img src="Screenshot 2026-01-13 041018.png" width="400">
+        <img src="Screenshot 2026-01-13 041018.png" width="300">
 
 
 7. Question : What is the average tenure of the employees who leave vs those who stay?
