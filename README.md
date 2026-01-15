@@ -44,6 +44,12 @@ In the initial data preparation phase, we performed the following tasks:
 
 - EDA involved exploring the HR data to answer key questions, such as:
 
+  1. What is the overall employee attrition rate?
+ 
+  2. Which departments and job roles experience the highest turnover?
+ 
+  3. Does employee age influence attrition?  e.t.c
+
 - Dataset Overview
   The dataset contains 1,470 employee records with 35 variables describing demographic, job-related, compensation, performance, and satisfaction attributes.
 The target variable is Attrition, indicating whether an employee has left the organization.
